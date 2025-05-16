@@ -1,3 +1,8 @@
+📌 Note: This repository was reuploaded and commit history reset for demonstration purposes. Only parts of the projects are included in this repository and info such as API keys and env are hidden already, hence this project cannot be used. This repository is created solely for the purpose of submitting transfer application materials for the Department of Computer Science and Information Engineering at NTU（臺灣大學資訊工程學系 轉學書面審查報告用）. Any other form of use is strictly prohibited. Please respect the intended usage and do not repurpose or distribute this code for any other purposes.
+
+
+
+
 # Juka 揪咖 Backend API
 
 Juka 揪咖是一個即時揪團購物、共乘省錢的行動平台，幫助使用者尋找附近的好友進行各種團購活動。
